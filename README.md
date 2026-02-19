@@ -41,7 +41,7 @@ The dataset contains marks of **100 students** in the following subjects:
 ## ⚙️ Installation & Setup
 ```bash
 1️. Clone Repository
-git clone <your-repo-link>
+git clone https://github.com/GaganSeth07/UWI_Week1_Assignment.git
 cd UWI_Week1_Assignment 
 
 2️. Install Required Libraries
