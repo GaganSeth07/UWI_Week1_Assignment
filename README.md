@@ -57,13 +57,13 @@ notebook/Student_Marks_Analysis.ipynb
 Run all cells to generate outputs and visualizations.
 
 => Visualizations Generated
-
 All visualizations are saved inside the images/ folder:
-Score Distributions (Histogram)
-Boxplot of Scores (Outlier Detection)
-Total Marks Distribution
-Top 10 Students Bar Chart
-Bottom 10 Students Bar Chart
+
+- Score Distributions (Histogram)
+- Boxplot of Scores (Outlier Detection)
+- Total Marks Distribution
+- Top 10 Students Bar Chart
+- Bottom 10 Students Bar Chart
 
 => Summary / Insights
 
