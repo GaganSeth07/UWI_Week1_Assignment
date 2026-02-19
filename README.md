@@ -55,28 +55,19 @@ Open the notebook file:
 notebook/Student_Marks_Analysis.ipynb
 
 Run all cells to generate outputs and visualizations.
-
-=> Visualizations Generated
+```
+## Visualizations Generated
 All visualizations are saved inside the images/ folder:
-
 - Score Distributions (Histogram)
 - Boxplot of Scores (Outlier Detection)
 - Total Marks Distribution
 - Top 10 Students Bar Chart
 - Bottom 10 Students Bar Chart
 
-=> Summary / Insights
-
-- Average student performance is around 51%
-
-- Science has the highest average marks
-
-- Language has the lowest average marks
-
-- Top 10 students scored around 67% to 79.6%
-
-- Bottom 10 students scored around 24.4% to 33.6%
-
-- No strong outliers were detected using the IQR method for total marks
-
-```
+## Summary / Insights
+- Average student performance is around 51%.
+- Science has the highest average marks.
+- Language has the lowest average marks.
+- Top 10 students scored around 67% to 79.6%.
+- Bottom 10 students scored around 24.4% to 33.6%.
+- No strong outliers were detected using the IQR method for total marks.
