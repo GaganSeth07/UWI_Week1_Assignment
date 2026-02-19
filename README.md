@@ -42,7 +42,7 @@ The dataset contains marks of **100 students** in the following subjects:
 ```bash
 1️. Clone Repository
 git clone <your-repo-link>
-cd student-marks-analysis
+cd UWI_Week1_Assignment 
 
 2️. Install Required Libraries
 pip install -r requirements.txt
