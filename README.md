@@ -20,27 +20,6 @@ The analysis includes:
 
 ---
 
-## 📂 Folder Structure
-student-marks-analysis/
-│── data/
-│ └── student_marks.csv
-│
-│── images/
-│ ├── score_histogram.png
-│ ├── boxplot_scores.png
-│ ├── total_score_distribution.png
-│ ├── top_10_students.png
-│ └── bottom_10_students.png
-│
-│── notebook/
-│ └── Week1_Assignment.ipynb
-│
-│── README.md
-│── requirements.txt
-
-
----
-
 ## 📑 Dataset Details
 The dataset contains marks of **100 students** in the following subjects:
 - Maths
